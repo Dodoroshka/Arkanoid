@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Arkanoid/Arkanoid.vcxproj" Id="870aa5bb-b60e-4844-b884-479ba5bfaf7b" />
+</Solution>
